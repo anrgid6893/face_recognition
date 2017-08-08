@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\dschoi\\Desktop\\face_recognition\\face_recognition-0.001-2conv-basic.model"
+all_model_checkpoint_paths: "C:\\Users\\dschoi\\Desktop\\face_recognition\\face_recognition-0.001-2conv-basic.model"
